@@ -20,7 +20,7 @@
    source venv/Scripts/activate (через Git Bash / PowerShell)
 3. Встановлення необхідних бібліотек:
    pip install -r requirements.txt
-4. Запуск Jupyter Notebook
+4. Запуск Jupyter Notebook:
    jupyter notebook
-5. Виконання скриптів
+5. Виконання скриптів:
    Відкрийте файли `part1.ipynb` і `part2.ipynb`, виконайте комірки.
