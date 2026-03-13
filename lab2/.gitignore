@@ -1,0 +1,7 @@
+# Завантажені дані Лабораторної 2
+vhi_data/
+power_data/
+household_power_consumption.zip
+
+# Віртуальне середовище (на випадок, якщо кореневий gitignore не спрацює)
+venv/
