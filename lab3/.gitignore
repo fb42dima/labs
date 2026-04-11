@@ -1,0 +1,23 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Кеш та налаштування IDE
+.idea/
+.vscode/
+*.swp
+
+# Теки збірки та віртуальні середовища
+__pycache__/
+venv/
+env/
+.env
+
+# Кеш Jupyter Notebook
+.ipynb_checkpoints/
+
+# Файли з даними (залишаємо код чистим)
+*.csv
+*.json
+*.log
+*.data
