@@ -26,13 +26,13 @@
 * `README.md` — документація проекту.
 * `vhi_data/` — каталог із вхідними даними.
 
-## Інструкція з розгортання та запуску
+## Інструкція з запуску
 
 ### 1. Створення віртуального середовища
-* `python -m venv venv`
+`python -m venv venv`
 
 ### 2. Активація середовища
-* `source venv/Scripts/activate`
+`source venv/Scripts/activate`
 
 ### 3. Встановлення залежностей
 `pip install -r requirements.txt`
