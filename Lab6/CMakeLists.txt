@@ -9,4 +9,3 @@ file(GLOB SOURCES "src/*.cpp")
 add_executable(Lab6 ${SOURCES})
 target_link_libraries(Lab6 ${OpenCV_LIBS})
 
-
