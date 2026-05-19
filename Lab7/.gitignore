@@ -1,0 +1,30 @@
+# Обов'язкові системні файли
+.DS_Store
+
+# Кеш та налаштування IDE
+.idea/
+.vscode/
+*.swp
+
+# Теки збірки
+bin/
+build/
+__pycache__/
+venv/
+
+# Файли з даними та логи
+*.txt
+*.csv
+*.json
+*.log
+
+# Виняток
+!CMakeLists.txt
+
+# Зібраний бінарний файл
+Lab7
+
+# Завантажені файли нейромережі
+deploy.prototxt
+res10_300x300_ssd_iter_140000.caffemodel
+*.caffemodel
